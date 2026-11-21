@@ -21,7 +21,7 @@ A small, read-only [Model Context Protocol (MCP)](https://modelcontextprotocol.i
 ## 1. Download the project
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/kali-system-audit-mcp.git
+git clone https://github.com/musammil-k/kali-system-audit-mcp.git
 cd kali-system-audit-mcp
 ```
 
