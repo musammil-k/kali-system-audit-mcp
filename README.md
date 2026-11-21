@@ -25,8 +25,6 @@ git clone https://github.com/musammil-k/kali-system-audit-mcp.git
 cd kali-system-audit-mcp
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username after you publish the repository. Alternatively, download the ZIP from GitHub and extract it.
-
 ## 2. Create a virtual environment
 
 ```bash
